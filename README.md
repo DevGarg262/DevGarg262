@@ -1,5 +1,4 @@
-![Software Developer]
-    
+   
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ### Hello! I'm Dev Garg a Software Developer from India.
