@@ -4,7 +4,7 @@
 ### Hello! I'm Dev Garg a Software Developer from India.
 
 ### I am a goal-oriented, optimistic personality.
-"Ideas + innovation + technology + leadership + commitment" are my tag words for life.
+## "Ideas + innovation + technology + leadership + commitment" are my tag words for life.
 
 ### Portfolio: http://devgarg.me
 
