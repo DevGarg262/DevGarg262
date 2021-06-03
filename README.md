@@ -33,7 +33,7 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)]
 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=reacti)]
-[![Electron](https://img.shields.io/badge/-Electron-gray?style=flat&logo=electron]
+[![Electron](https://img.shields.io/badge/-Electron-gray?style=flat&logo=electron)]
 [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery)]
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)]
